@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Manisha</h1>
-<h3 align="center">A Software Engineer from India </h3>
+<h1 align="center">Hi 👋, I'm Manisha
  <div id="header" align="right">
   <img src="https://media.giphy.com/media/aIJDrOomj81MQZz2uO/giphy.gif" width="100"/>
 </div>
+</h1>
+<h3 align="center">A Software Engineer from India </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mani2310&label=Profile%20views&color=0e75b6&style=flat" alt="mani2310" /> </p>
 
@@ -13,11 +14,11 @@
 
 - 👯 I’m looking to collaborate on **Open-Source projects**
 
-- 📫 How to reach me **https://www.linkedin.com/in/manisha-paswan-65ab7987/**
+- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manisha-paswan-65ab7987/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manisha-paswan-65ab7987/)
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/manisha-paswan-65ab7987/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manisha-paswan-65ab7987/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
