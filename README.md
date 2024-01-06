@@ -1,9 +1,8 @@
-<h1 align="left">Hi 👋, I'm Manisha
- <div id="header" align="right">
-  <img src="https://media.giphy.com/media/aIJDrOomj81MQZz2uO/giphy.gif" width="100"/>
-</div>
-</h1>
-<h3 align="center">A Software Engineer from India </h3>
+ <h1>Hi 👋, I'm Manisha
+  <img src="https://media.giphy.com/media/aIJDrOomj81MQZz2uO/giphy.gif" width="50" />
+ </h1>
+<h3 align="left">A Software Engineer from India 
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mani2310&label=Profile%20views&color=0e75b6&style=flat" alt="mani2310" /> </p>
 
