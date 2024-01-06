@@ -15,4 +15,4 @@ I am a Software Engineer from India.
  
  👯 I’m looking to collaborate on Open-Source Projects
  
- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manisha-paswan-65ab7987/)
+ 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manisha-paswan-65ab7987/)
